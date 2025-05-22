@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Aplikasi dengan 3 menu pilihan"
+git branch -M main
+git remote add origin https://github.com/USERNAME/aplikasi-3-menu.git
+git push -u origin main
